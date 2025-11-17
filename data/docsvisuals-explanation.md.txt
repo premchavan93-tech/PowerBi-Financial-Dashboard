@@ -1,0 +1,28 @@
+# Dashboard Pages & Visuals Overview
+
+## 1. Executive Summary
+Includes:
+- Total Revenue
+- Total Expenses
+- Total Units Sold
+- Total Profi
+- Discount % of Gross
+- Sum of Sales and Product Sales Rank by Product Stacked Coumn Chart
+- Total Profit by Segment Donut Chart
+- Total Sales and Total Profit by Month Line Chart
+
+## 2. Profit Analysis
+- Total Profit by Product Tree Map
+- Total COGS and Total Profit by Product and Segment Scatter Chart
+- Total Sales,Total COGS, Total Profit Funnel
+- Total Sales and Profit Margin by Segment Stacked Column Chart
+
+## 3. Sales Analysis
+- Total Sales by Month
+- Total Sales by Year
+- Total Sales by Quarter
+
+## 4.All Details
+- Year, Discount Band, Month Name, Country, Segment,Product Slicers
+- Table of Year, Quarter, Month, Day, Product, Country, Segment, Total Sales, Total Profit, 
+- Matrix of Poduct, Total Sales, Total Profit, Profit Margin
